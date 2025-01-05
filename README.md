@@ -4,7 +4,7 @@
 
 - Microsoft Azure
   -  [Monitoring Network Traffic with Azure VMs](https://github.com/RomainTranchant/Network-Monitoring)
-  -  [Setup and Use a VPN in Azure](https://github.com/ccollins-21/How-to-Setup-and-Use-a-VPN-within-Azure)
+  -  [Setup and Use a VPN in Azure](https://github.com/RomainTranchant/Azure_VPN_Setup)
 - Active Directory
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/ccollins-21/Preparing-Active-Directory-Infrastructure-in-Azure)
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/ccollins-21/Active-Directory-Deploying-Active-Directory)
