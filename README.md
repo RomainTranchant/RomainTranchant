@@ -13,9 +13,15 @@
   -  [osTicket: Prerequisites and Installation](https://github.com/RomainTranchant/OsTicket_Installation)
   -  [osTicket: Post Installation Configuration](https://github.com/RomainTranchant/OsTicket_Configuration)
   -  [osTicket: Creating and Working Tickets](https://github.com/RomainTranchant/OsTicket_Creating_And_Working_Tickets)
+
+<h2>Information Technology Projects:</h2>
+
+  -  [Calculator](https://github.com/RomainTranchant/CIS103_calculator/blob/main/enhanced_calculator.py)
+
+  -  
 <h2>📄 Certifications</h2>
 
-- [CourseCareers Information Technology Certificate](https://i.imgur.com/UGS9jnl.png)
+- [CourseCareers Information Technology Certificate](https://github.com/RomainTranchant/CIS103_calculator/blob/main/enhanced_calculator.py)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DT23G74IV10L)
 <h2>📄 Education</h2>
 
