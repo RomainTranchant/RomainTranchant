@@ -14,11 +14,14 @@
   -  [osTicket: Post Installation Configuration](https://github.com/RomainTranchant/OsTicket_Configuration)
   -  [osTicket: Creating and Working Tickets](https://github.com/RomainTranchant/OsTicket_Creating_And_Working_Tickets)
 
-<h2>Information Technology Projects:</h2>
+<h2>Python Projects:</h2>
 
   -  [Calculator](https://github.com/RomainTranchant/CIS103_calculator/blob/main/enhanced_calculator.py)
-
-  -  
+  -  [Python Collections](https://github.com/RomainTranchant/CIS103_Extra-Credit-Lab-Assignment-Advanced-Python-Collections/blob/main/CIS103_extra_credit.py)
+  -  [Rock Paper Scissors Game](https://github.com/RomainTranchant/rock-paper-scissors/blob/main/rock_paper_scissors.py)
+  -  [Searching And Sorting Algorithm](https://github.com/RomainTranchant/CIS103_Assignment5_Searching-Sorting-and-Complexity-Analysis)
+  -  [Simple Python Exercises](https://github.com/RomainTranchant/CIS_103_Lab_6)
+  -  [Small Business Custom Order Management](https://github.com/RomainTranchant/Midterm_Order_management/blob/main/Midterm.py)
 <h2>📄 Certifications</h2>
 
 - [CourseCareers Information Technology Certificate](https://github.com/RomainTranchant/CIS103_calculator/blob/main/enhanced_calculator.py)
