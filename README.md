@@ -12,7 +12,7 @@
 - osTicket (Help Desk Ticketing System)
   -  [osTicket: Prerequisites and Installation](https://github.com/RomainTranchant/OsTicket_Installation)
   -  [osTicket: Post Installation Configuration](https://github.com/RomainTranchant/OsTicket_Configuration)
-  -  [osTicket: Creating and Working Tickets](https://github.com/ccollins-21/osTicket-Creating-and-Working-Tickets)
+  -  [osTicket: Creating and Working Tickets](https://github.com/RomainTranchant/OsTicket_Creating_And_Working_Tickets)
 <h2>📄 Certifications</h2>
 
 - [CourseCareers Information Technology Certificate](https://i.imgur.com/UGS9jnl.png)
