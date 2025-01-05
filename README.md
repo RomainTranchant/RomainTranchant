@@ -11,7 +11,7 @@
   - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/RomainTranchant/AD_Creating_Users_Group_Policies_And_Managing_Accounts)
 - osTicket (Help Desk Ticketing System)
   -  [osTicket: Prerequisites and Installation](https://github.com/RomainTranchant/OsTicket_Installation)
-  -  [osTicket: Post Installation Configuration](https://github.com/ccollins-21/osTicket-Post-Installation-Configuration)
+  -  [osTicket: Post Installation Configuration](https://github.com/RomainTranchant/OsTicket_Configuration)
   -  [osTicket: Creating and Working Tickets](https://github.com/ccollins-21/osTicket-Creating-and-Working-Tickets)
 <h2>📄 Certifications</h2>
 
