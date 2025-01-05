@@ -16,7 +16,10 @@
 <h2>📄 Certifications</h2>
 
 - [CourseCareers Information Technology Certificate](https://i.imgur.com/UGS9jnl.png)
-- [Google IT Support Professional Certificate](https://coursera.org/share/4bf5591134eedc75ec4f1258cb7285ba)
-- [IT Support Technical Skills Helpdesk Certificate](https://www.udemy.com/certificate/UC-74021f93-3022-4526-8f0c-7e21f78d4c30/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DT23G74IV10L)
+<h2>📄 Education</h2>
+
+-  Cyber Security Basic Certificate - Truman College, Chicago
+-  GED (General Educational Development) - Truman College, Chicago
 
 
