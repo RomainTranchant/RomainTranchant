@@ -7,7 +7,7 @@
   -  [Setup and Use a VPN in Azure](https://github.com/RomainTranchant/Azure_VPN_Setup)
 - Active Directory
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/RomainTranchant/AD_Preparing_Active_Directory_In_Azure)
-  - [Active Directory: Deploying Active Directory in Azure](https://github.com/ccollins-21/Active-Directory-Deploying-Active-Directory)
+  - [Active Directory: Deploying Active Directory in Azure](https://github.com/RomainTranchant/AD_Deploying_Active_Directory)
   - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/ccollins-21/Active-Directory-Creating-Users-Group-Policy-and-Managing-Accounts)
 - osTicket (Help Desk Ticketing System)
   -  [osTicket: Prerequisites and Installation](https://github.com/ccollins-21/osTicket-Prerequisites-and-Installation)
