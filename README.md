@@ -22,6 +22,12 @@
   -  [Searching And Sorting Algorithm](https://github.com/RomainTranchant/CIS103_Assignment5_Searching-Sorting-and-Complexity-Analysis)
   -  [Simple Python Exercises](https://github.com/RomainTranchant/CIS_103_Lab_6)
   -  [Small Business Custom Order Management](https://github.com/RomainTranchant/Midterm_Order_management/blob/main/Midterm.py)
+  -  [Implementing And Manipulating Arrays And Lined Structures](https://github.com/RomainTranchant/Lab-7-Implementing-and-Manipulating-Arrays-and-Linked-Structures)
+  -  [Understanding Of Inheritance, Subclassing, And Abstract Classes](https://github.com/RomainTranchant/AbstractBag/blob/main/abstractbag.py)
+  -  [Stack Implementation](https://github.com/RomainTranchant/Stack/blob/main/stacks.py)
+  -  [Queue Implementation](https://github.com/RomainTranchant/Queue/blob/main/queues.py)
+  -  [List And Binary Trees](https://github.com/RomainTranchant/List-and-binary-tree)
+
 <h2>📄 Certifications</h2>
 
 - [CourseCareers Information Technology Certificate](https://github.com/RomainTranchant/CIS103_calculator/blob/main/enhanced_calculator.py)
