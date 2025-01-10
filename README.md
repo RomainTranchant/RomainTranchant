@@ -38,4 +38,4 @@
 -  GED (General Educational Development) - Truman College, Chicago
 
 <h2>📄 Certifications</h2>
-- [Notes]()
+- [Notes](https://github.com/RomainTranchant/obs_notes)
