@@ -37,5 +37,6 @@
 -  Cyber Security Basic Certificate - Truman College, Chicago
 -  GED (General Educational Development) - Truman College, Chicago
 
-<h2>📄 Certifications</h2>
+<h2>📄 Notes</h2>
+
 - [Notes](https://github.com/RomainTranchant/obs_notes)
