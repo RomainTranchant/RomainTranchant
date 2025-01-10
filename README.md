@@ -39,4 +39,4 @@
 
 <h2>📄 Notes</h2>
 
-- [Notes](https://github.com/RomainTranchant/obs_notes)
+- [Notes](https://github.com/RomainTranchant/Github-Vault)
