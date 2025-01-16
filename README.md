@@ -30,7 +30,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [CourseCareers Information Technology Certificate](https://github.com/RomainTranchant/CIS103_calculator/blob/main/enhanced_calculator.py)
+- [CourseCareers Information Technology Certificate](https://imgur.com/a/0CATksl)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DT23G74IV10L)
 <h2>📄 Education</h2>
 
