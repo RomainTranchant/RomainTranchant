@@ -14,6 +14,11 @@
   -  [osTicket: Post Installation Configuration](https://github.com/RomainTranchant/OsTicket_Configuration)
   -  [osTicket: Creating and Working Tickets](https://github.com/RomainTranchant/OsTicket_Creating_And_Working_Tickets)
 
+<h2>Obsidian tutorials:</h2>
+
+  -  [Tutorial: How to synchronize Obsidian And GitHub](https://github.com/RomainTranchant/Vault/blob/main/Tutorial%20Synchronization%20Obsidian%20And%20GitHub.md)
+  -  [Tutorial: how to synchronize obsidian and Imgur](https://github.com/RomainTranchant/Azure_VPN_Setup)
+
 <h2>Python Projects:</h2>
 
   -  [Calculator](https://github.com/RomainTranchant/CIS103_calculator/blob/main/enhanced_calculator.py)
