@@ -18,7 +18,7 @@
 
 - The GitHub Sync plugin for Obsidian helps synchronize your vault with your GitHub account, streamlining note management. The tutorial provides step-by-step installation and setup instructions.
   -  [Tutorial: How to synchronize Obsidian And GitHub](https://github.com/RomainTranchant/Vault/blob/main/Tutorial%20Synchronization%20Obsidian%20And%20GitHub.md)
- - The Imgur plugin for Obsidian stores images remotely, preventing vault clutter and making note-sharing easier. The tutorial provides step-by-step installation and setup instructions.
+- The Imgur plugin for Obsidian stores images remotely, preventing vault clutter and making note-sharing easier. The tutorial provides step-by-step installation and setup instructions.
   -  [Tutorial: how to synchronize obsidian and Imgur](https://github.com/RomainTranchant/Vault/blob/main/Tutorial%20Imgur%20Sync%20with%20Obsidian.md)
 
 <h2>Python Projects:</h2>
