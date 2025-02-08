@@ -37,15 +37,17 @@ By following these tutorials, you'll create a powerful note-taking and publishin
   -  [Queue Implementation](https://github.com/RomainTranchant/Queue/blob/main/queues.py)
   -  [List And Binary Trees](https://github.com/RomainTranchant/List-and-binary-tree)
 
+<h2>📄 Learning and Tutorials</h2>
+
+- [Learning and Tutorials](https://github.com/RomainTranchant/Obsidian-for-Github)
+
 <h2>📄 Certifications</h2>
 
 - [CourseCareers Information Technology Certificate](https://imgur.com/a/0CATksl)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DT23G74IV10L)
 <h2>📄 Education</h2>
 
--  Cyber Security Basic Certificate - Truman College, Chicago
+-  [Cyber Security Basic Certificate - Truman College, Chicago](https://imgur.com/a/fMXHsbm)
 -  GED (General Educational Development) - Truman College, Chicago
 
-<h2>📄 Learning and Tutorials</h2>
 
-- [Learning and Tutorials](https://github.com/RomainTranchant/Obsidian-for-Github)
