@@ -43,8 +43,10 @@ By following these tutorials, you'll create a powerful note-taking and publishin
 
 <h2>📄 Certifications</h2>
 
+- [Cisco Certified Support Technician Cybersecurity](https://imgur.com/ay3xYsT)
 - [CourseCareers Information Technology Certificate](https://imgur.com/a/0CATksl)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DT23G74IV10L)
+
 <h2>📄 Education</h2>
 
 -  [Cyber Security Basic Certificate - Truman College, Chicago](https://imgur.com/a/fMXHsbm)
