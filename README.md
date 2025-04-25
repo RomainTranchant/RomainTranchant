@@ -1,5 +1,11 @@
 <h1>Hello there! I'm Romain, an IT Professional!
 
+<h2>📄 Certifications</h2>
+
+- [CCST Cybersecurity - Cisco Certified Support Technician Cybersecurity](https://imgur.com/ay3xYsT)
+- [CourseCareers Information Technology Certificate](https://imgur.com/a/0CATksl)
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DT23G74IV10L)
+
 <h2>Information Technology Projects:</h2>
 
 - Microsoft Azure
@@ -40,12 +46,6 @@ By following these tutorials, you'll create a powerful note-taking and publishin
 <h2>📄 Learning and Tutorials</h2>
 
 - [Learning and Tutorials](https://github.com/RomainTranchant/Obsidian-for-Github)
-
-<h2>📄 Certifications</h2>
-
-- [CCST Cybersecurity - Cisco Certified Support Technician Cybersecurity](https://imgur.com/ay3xYsT)
-- [CourseCareers Information Technology Certificate](https://imgur.com/a/0CATksl)
-- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DT23G74IV10L)
 
 <h2>📄 Education</h2>
 
